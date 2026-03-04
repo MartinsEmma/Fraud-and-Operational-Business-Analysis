@@ -22,7 +22,7 @@ Transactional Data: The Primary dataset used for this analysis is the 'transacti
 the data set was curated by Erikodx_IT, One of the leading tech entreprices in nigeria.
 
 ### Tools 
-Structured Query Language (SQL), Ms Excel(power query), Power bi(Dashboard Creation), Ms Word(report writing) 
+Structured Query Language (SQL), Ms Excel(power query), Power bi(Dashboard Creation) 
 
 ### Data Cleaning and Preperation
 The data was extracted from a relational database using SQL. It was further cleaned, transformed and validated in Microsoft Excel, ensuring accuracy, consistency, and readiness for analysis.
