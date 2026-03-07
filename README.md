@@ -1,7 +1,6 @@
 # Fraud and Operational Business Analysis
-...
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![SQL](https://img.shields.io/badge/SQL-pgAdmin4-blue)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
 ![PowerBI](https://img.shields.io/badge/Power-BI-yellow)
 ### Table of contents 
