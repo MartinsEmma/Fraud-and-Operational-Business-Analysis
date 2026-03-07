@@ -1,6 +1,9 @@
 # Fraud and Operational Business Analysis
 ...
 
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
+![PowerBI](https://img.shields.io/badge/Power-BI-yellow)
 ### Table of contents 
 ---
 - [Project Overview](#project-overview)
@@ -18,8 +21,7 @@ We will investigate factors like the total revenue generated from the business, 
 Fraud transactions and other factors aiding or affecting growth. 
 
 ### Data Sources 
-Transactional Data: The Primary dataset used for this analysis is the 'transactionas_data.csv', containing detailed information about car prices. 
-the data set was curated by Erikodx_IT, One of the leading tech entreprices in nigeria.
+Transactional Data: The Primary dataset used for this analysis was provided by ErikoDX IT, a mentorship dataset shared for analytical skill development
 
 ### Tools 
 Structured Query Language (SQL), Ms Excel(power query), Power bi(Dashboard Creation) 
