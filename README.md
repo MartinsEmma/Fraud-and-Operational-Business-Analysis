@@ -10,7 +10,7 @@
 - [Tools](#tools)
 - [Data Cleaning and Preperation](#data-cleaning-and-preperation)
 - [Data Analysis](#data-analysis)
-- [Results/findings](#results/findings)
+- [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
@@ -113,8 +113,7 @@ A 71% success rate means nearly 3 in 10 transactions fail, are pending, or are r
 -	Leverage Top Customer Data for Loyalty Strategy
 High-value customers represent disproportionate revenue contribution. A targeted loyalty or retention programme like discounts and promotional packages for top-tier customers could protect and grow this revenue base.
 
-
-### Limitatioins 
+### Limitations 
 There were inconsistencies in payment channels and payment methods  which were replaced with unknown, there were also some mmissing currencies and difference in currency
 
 ### Refrences 
